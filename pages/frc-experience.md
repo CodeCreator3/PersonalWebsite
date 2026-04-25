@@ -77,7 +77,7 @@ At the following competition, we placed as finalists, and we won the autonomous 
         allowfullscreen>
 </iframe>
 
-That little move to throw the first purple cube we got saved us enough time to go and score a third game piece. Because of our autonomous consistancy and my communication skills with the jugdes, we won the autonomous award yet again! This was very honoring because the Pacific Northwest Regional is a very competitive event with plenty of other good autonomous routines. From there, we qualified for the world championships. I was unable to attend due to prior commitments with my high school's musical, but I was paying close attention. So when I heard that we had won the autonomous award again, I was extatic!!!
+That little move to throw the first purple cube we got saved us enough time to go and score a third game piece. Because of our autonomous consistancy and my communication skills with the jugdes, we won the autonomous award yet again! This was very honoring because the Pacific Northwest Regional is a very competitive event with plenty of other good autonomous routines. From there, we qualified for the world championships. I was unable to attend due to prior commitments with my high school's musical, but I was paying close attention. So when I heard that we had won the autonomous award again, I was ecstatic!!!
 
 
 
