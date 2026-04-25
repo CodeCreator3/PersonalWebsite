@@ -27,7 +27,7 @@ Here is an example of a game reveal from 2025 Rebuilt.
 
 After the game is revealed, teams begin designing, prototyping, fabricating, assembling, wiring, programming, and testing their robots. This engineering design process goes on for two months, after which competitions begin. Over the following two months, 350 [competitions](https://www.thebluealliance.com/events) happen all across the world. Teams that do well at these competitions are invited to the World Championships in Houston, Texas.
 
-![Worlds](../assets/frc-experience/IMG_0659-550x309.jpg)
+![Worlds](assets/frc-experience/IMG_0659-550x309.jpg)
 
 ### Competition Structure
 
@@ -46,11 +46,11 @@ Once teams have chosen their alliances, the playoff phase begins. Alliances face
 ## The Sonic Squirrels
 In high school, I joined [FRC #2930 The Sonic Squirrels](https://sonicsquirrels.com/).
 
-![The Sonic Squirrels](../assets/frc-experience/2930-full-team.jpg)
+![The Sonic Squirrels](assets/frc-experience/2930-full-team.jpg)
 
 ### Freshman Year (2022)
 My first year, I spent a lot of time learning Java, as well as all the software we use to control robots. I was pretty overwhelmed with this, but I enjoyed the program, and knew I had a lot of potential. That year, I wrote the software for our elevator system, allowing our robot to climb monkey bars.
-![alt text](../assets/frc-experience/2022_03_robot_traverse.jpg)
+![alt text](assets/frc-experience/2022_03_robot_traverse.jpg)
 Seeing the code I wrote work in competition was very motivating. Our team did well at our first two competitions that season, even winning the Sundome district event with [2910 Jack in the Bot](https://frcteam2910.org/). Because of this, we were invited to compete at the PNW District Championships. At that event, our team made it all the way to the semi-finals. 
 <br>
 
@@ -61,7 +61,7 @@ Seeing the code I wrote bring our team to success was very motivating. Our team 
 This year I made significant contributions to robot software. The main area I wrote code for was the autonomous period. During the autonomous period, there is no driver control and the robot must act completely on it's own using sensors and autonomous code. That year, I programmed our robot to use April Tags to determine it's position on the field. Once we had our position, I used autonomous pathing software like [Path Planner](https://pathplanner.dev/home.html) to create path following algorithms. After sequencing in movement of the scoring mechanism, we had a very effective autonomous.
 <br>
 
-![alt text](../assets/frc-experience/SFGYzJn.jpeg)
+![alt text](assets/frc-experience/SFGYzJn.jpeg)
 
 At our first competition, I also spent less time cheering on our team in the stands and more time debugging issues in the pit. This was more fun for me and gave me experience working in a stressful environment. We won that first event alongside 2910 Jack in the Bot and [1778 Chill Out](https://www.chillout1778.org/). Additionally, we won the autonomous award. According to [FIRST's website](https://www.firstinspires.org/resources/library/frc/awards), the autonomous award "celebrates the team whose machine has demonstrated consistent, reliable, high-performance robot operation during autonomous (i.e. non-operated guided) actions during match play. Evaluation is based on the robot’s ability to sense its surroundings, position itself or onboard mechanisms appropriately, and execute tasks." This was very exciting because I was the one who wrote the autonomous code and tested it, and I was the one talking to the judges to explain how it worked.
 <br>
@@ -82,8 +82,8 @@ That little move to throw the first purple cube we got saved us enough time to g
 
 
 ### Junior Year (2024)
-![alt text](../assets/frc-experience/dcmp_maestro_trap.jpg)
+![alt text](assets/frc-experience/dcmp_maestro_trap.jpg)
 
 ### Senior Year (2025)
-![alt text](../assets/frc-experience/hq720.jpg)
+![alt text](assets/frc-experience/hq720.jpg)
 
