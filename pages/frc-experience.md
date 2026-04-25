@@ -49,8 +49,21 @@ In high school, I joined [FRC #2930 The Sonic Squirrels](https://sonicsquirrels.
 ![The Sonic Squirrels](assets/frc-experience/2930-full-team.jpg)
 
 ### Freshman Year (2022)
+For those curious, here is the game reveal for the 2022 season Rapid React:
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/LgniEjI9cCM" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
 My first year, I spent a lot of time learning Java, as well as all the software we use to control robots. I was pretty overwhelmed with this, but I enjoyed the program, and knew I had a lot of potential. It was pretty annoying to come to software meetings and contribute very little because I still didn't understand how the software worked. However, this motivated me to work harder to improve my skills. That year, I wrote the software for our elevator system, allowing our robot to climb monkey bars.
-![alt text](assets/frc-experience/2022_03_robot_traverse.jpg)
+<figure>
+  <img src="assets/frc-experience/2022_03_robot_traverse.jpg" alt="Robot">
+  <figcaption>Our 2022 robot, Pterumini, climbing the rungs</figcaption>
+</figure>
 Seeing the code I wrote work in competition was very motivating. Our team did well at our first two competitions that season, even winning the Sundome district event with [2910 Jack in the Bot](https://frcteam2910.org/). Because of this, we were invited to compete at the PNW District Championships. At that event, our team made it all the way to the semi-finals. 
 <br>
 
@@ -58,10 +71,23 @@ Seeing the code I wrote bring our team to success was very motivating. Our team 
 
 ### Sophomore Year (2023)
 
-This year I made significant contributions to robot software. The main area I wrote code for was the autonomous period. During the autonomous period, there is no driver control and the robot must act completely on it's own using sensors and autonomous code. That year, I programmed our robot to use April Tags to determine it's position on the field. Once we had our position, I used autonomous pathing software like [Path Planner](https://pathplanner.dev/home.html) to create path following algorithms. After sequencing in movement of the scoring mechanism, we had a very effective autonomous.
+For those curious, here is the game reveal for the 2023 season Charged Up:
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/0zpflsYc4PA" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+This year I made significant contributions to robot software. The main area I wrote code for was the autonomous period. During the autonomous period, there is no driver control and the robot must act completely on it's own using sensors and autonomous code. That year, I programmed our robot to use April Tags to determine it's position on the field. Once we had our position, I used autonomous pathing software like [Path Planner](https://pathplanner.dev/home.html) to create path following algorithms. After sequencing in movement of the scoring mechanism, we had a very effective autonomous. Additionally, I wrote an algorithm to guage the robot angle from the on-board IMU in order to balance on the charge pad (a balance pad for the robot to score extra points).
 <br>
 
-![alt text](assets/frc-experience/SFGYzJn.jpeg)
+<figure>
+  <img src="assets/frc-experience/SFGYzJn.jpeg" alt="Robot">
+  <figcaption>Our 2023 robot, Rober, on the charge pad</figcaption>
+</figure>
 
 At our first competition, I also spent less time cheering on our team in the stands and more time debugging issues in the pit. This was more fun for me and gave me experience working in a stressful environment. We won that first event alongside 2910 Jack in the Bot and [1778 Chill Out](https://www.chillout1778.org/). Additionally, we won the autonomous award. According to [FIRST's website](https://www.firstinspires.org/resources/library/frc/awards), the autonomous award "celebrates the team whose machine has demonstrated consistent, reliable, high-performance robot operation during autonomous (i.e. non-operated guided) actions during match play. Evaluation is based on the robot’s ability to sense its surroundings, position itself or onboard mechanisms appropriately, and execute tasks." This was very exciting because I was the one who wrote the autonomous code and tested it, and I was the one talking to the judges to explain how it worked.
 <br>
@@ -108,12 +134,25 @@ Finally, during the offseason, there are unofficial offseason events hosted by t
         allowfullscreen>
 </iframe>
 
-When the 2024 season started, I took my role very seriously. I wrote the majority of our robot code while guiding newer students through making their own contributions. Additionally, I pushed for the use of more advanced software techniques such as state machines and neural network gamepiece detection.
+For those curious, here is the game reveal for the 2024 season Crescendo:
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/9keeDyFxzY4" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+When the 2024 season started, I took my role very seriously. I wrote the majority of our robot code while guiding newer students through making their own contributions. Additionally, I pushed for the use of more advanced software techniques such as simulation, state machines, and neural network gamepiece detection.
 <br>
 
 Here is our robot from the 2024 season:
 
-![alt text](assets/frc-experience/dcmp_maestro_trap.jpg)
+<figure>
+  <img src="assets/frc-experience/dcmp_maestro_trap.jpg" alt="Robot">
+  <figcaption>Our 2024 robot, Maestro, scoring a note into the trap</figcaption>
+</figure>
 
 That year, the gamepieces (known as "notes" in 2024, they are orange foam rings) during autonomous were accessable to both alliances. This means you can get your target gamepiece stolem from you by the opposing alliance. Ideally, your robot is faster than your opponent, but I knew that wouldn't always be the case. Most robots have a preplanned linear route to grab a note, score, grab a note, score. I developed a state machine that would only go into score mode if a note enters the robot (which can be determined using on-board time of flight sensors). Otherwise, the robot would move on to the next note. Here is an example of that working:
 
@@ -125,14 +164,56 @@ That year, the gamepieces (known as "notes" in 2024, they are orange foam rings)
         allowfullscreen>
 </iframe>
 
+Additionally, we had a camera that was dedicated to neural network note detection; that way if someone knocked a note out of the way, we could adjust our pathing to collect the note. Here is a demonstration of the note detection technology using a Raspberry Pi connected to a Google Coral. My friend Landon Theaker is the one holding the notes.
+
 <iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
-        src="https://www.youtube.com/embed/aQ4fZkgXJs4" 
+        src="https://www.youtube.com/embed/w5WmLqiWXxc" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen>
 </iframe>
 
+Here is an example of this being used in a match. We are the robot that goes toward the lower center notes.
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/dv30lzIQYUY" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+Another major aspect of software that I took seriously as the software lead was documentation. Because the autonomous period was so dynamic that year, I put together a binder with diagrams of each of our autonomous routines. Each one came with the number of notes scored as well as the timings at which we picked up each note. Here is an example page from the binder:
+
+![alt text](assets/frc-experience/AutoFolderPage1_WhiteBackground.png)
+
+Additionally, I made documentation of how our code works for the judges and other interested people. This diagram shows how our autonomous state machine makes decisions and transitions between states:
+
+![alt text](assets/frc-experience/StateMachinediagram.png)
+
+This diagram displays how our autonomous pathing pipeline works, taking in vision measurements and using the neural network to collect notes:
+
+![alt text](assets/frc-experience/ChoreoHelper.png)
+
+I also put together a diagram of the robot controls so that anyone could learn how to control the robot:
+
+![alt text](assets/frc-experience/MaestroControls1.png)
+
 ### Senior Year (2025)
-![alt text](assets/frc-experience/hq720.jpg)
+
+For those curious, here is the game reveal for the 2025 season Reefscape:
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/YWbxcjlY9JY" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+<figure>
+  <img src="assets/frc-experience/hq720.jpg" alt="Robot">
+  <figcaption>Our 2025 robot, Holocentrus, scoring a coral onto the reef</figcaption>
+</figure>
 
