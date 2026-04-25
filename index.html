@@ -1,47 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tim Ellis - Digital Resume</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-  <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tim Ellis - Digital Resume</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- <script>
+        tailwind.config = {
+            plugins: [tailwind.typography],
+        }
+    </script> -->
+    <script src="https://cdn.tailwindcss.com?plugins=typography"></script>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body class="bg-gray-50 text-gray-800 font-sans">
-  <!-- Main container -->
-  <div class="max-w-4xl mx-auto p-6">
-    
-    <!-- Header -->
-    <div class="flex flex-col items-center mb-8">
-      <img src="assets/profile.jpg" alt="Profile Picture" class="w-40 h-40 rounded-full shadow-md mb-4">
-      <h1 class="text-3xl font-bold">Tim Ellis</h1>
-      <p class="text-gray-600">Age: 19 | Email: <a href="mailto:timothyellis913@gmail.com" class="text-blue-600 hover:underline">timothyellis913@gmail.com</a> | Phone: (425) 478-3835</p>
+
+<body class="bg-black text-white font-sans">
+    <!-- Main container -->
+    <div class="max-w-4xl mx-auto p-6">
+
+        <!-- Header -->
+        <div class="flex flex-col items-center mb-8">
+            <img src="assets/profile.jpg" alt="Profile Picture" class="w-40 h-40 rounded-full shadow-md mb-4">
+            <h1 class="text-3xl font-bold">Tim Ellis</h1>
+            <p class="text-gray-300">Age: 19 | Email: <a href="mailto:timothyellis913@gmail.com"
+                    class="text-blue-600 hover:underline">timothyellis913@gmail.com</a> | Phone: (425) 478-3835</p>
+        </div>
+
+        <!-- Navigation -->
+        <nav class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
+            <button onclick="loadPage('pages/frc-experience.md')" class="nav-btn">FRC Experience</button>
+            <button onclick="loadPage('pages/fll-mentoring.md')" class="nav-btn">FLL Mentoring</button>
+            <button onclick="loadPage('pages/personal-projects.md')" class="nav-btn">Personal Projects</button>
+            <button onclick="loadPage('pages/highschool-education.md')" class="nav-btn">High School Education</button>
+            <button onclick="loadPage('pages/college-education.md')" class="nav-btn">College Education</button>
+            <button onclick="loadPage('pages/trumpet-playing.md')" class="nav-btn">Trumpet Playing</button>
+        </nav>
+
+        <!-- Content Area -->
+        <div id="content" class="prose prose-invert max-w-none bg-gray-900 p-6 rounded-xl shadow-md">
+            <h2>Welcome!</h2>
+            <p>Select a section above to learn more about me.</p>
+        </div>
+
+        <!-- Return Button (appears on subpages) -->
+        <div id="return-home" class="hidden text-center mt-6">
+            <button onclick="returnHome()"
+                class="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition">
+                ← Back to Home
+            </button>
+        </div>
+
     </div>
-
-    <!-- Navigation -->
-    <nav class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
-      <button onclick="loadPage('pages/frc-experience.md')" class="nav-btn">FRC Experience</button>
-      <button onclick="loadPage('pages/fll-mentoring.md')" class="nav-btn">FLL Mentoring</button>
-      <button onclick="loadPage('pages/personal-projects.md')" class="nav-btn">Personal Projects</button>
-      <button onclick="loadPage('pages/highschool-education.md')" class="nav-btn">High School Education</button>
-      <button onclick="loadPage('pages/college-education.md')" class="nav-btn">College Education</button>
-    </nav>
-
-    <!-- Content Area -->
-    <div id="content" class="prose max-w-none bg-white p-6 rounded-xl shadow-md">
-      <h2>Welcome!</h2>
-      <p>Select a section above to learn more about me.</p>
-    </div>
-
-    <!-- Return Button (appears on subpages) -->
-    <div id="return-home" class="hidden text-center mt-6">
-      <button onclick="returnHome()" class="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-gray-800 transition">
-        ← Back to Home
-      </button>
-    </div>
-
-  </div>
-  <script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
+
 </html>
