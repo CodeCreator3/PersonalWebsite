@@ -1,3 +1,11 @@
 # High School Education
 
-work in progress...
+## Freshman Year
+
+## Sophomore Year
+
+## Junior Year
+
+## Senior Year
+
+## Conclusion

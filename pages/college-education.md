@@ -1,3 +1,3 @@
 # College Education
 
-work in progress...
+## Freshman Year
