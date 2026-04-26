@@ -277,6 +277,16 @@ Learning from our past mistakes and leaning on our team's strengths, we built ou
 This robot was capable of scoring coral on all levels of the reef, scoring algae into the processor, and climbing the deep cage. As chief engineer, I led executive engineering meetings, kept people on schedule, organized team meeting times, taught students software skills, and even wrote the majority of our software.
 <br>
 
+Here is a demonstration of our software through a full match simulation:
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/hKrN5mNEK9A" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
 That year, our autonomous was designed to be extremely customizable; the drive team could make the robot collect coral from either human player station, collect coral off the ground, and score coral on any level. Here is an example of our autonomous working:
 
 <iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
