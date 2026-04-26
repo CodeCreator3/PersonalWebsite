@@ -125,7 +125,7 @@ This year, I was selected as the Programming Lead. The responsibilities of this 
 In the offseason, I organized software training; I put together training slides and a learning curriculum for the team. Every week, I presented in front of a group of students, gave them practice to work on, and answered questions as needed. Additionally, I worked with my friend Keyush to do testing with gamepiece detection for more accurate game piece collection during the autonomous period.
 <br>
 
-Finally, during the offseason, there are unofficial offseason events hosted by teams. One of those is Block Party hosted by 2910 Jack in the Bot. At offseason events, you are allowed to bring multiple robots to compete. Our team decided to submit our main competition robot from 2023 as well as our 2022 robot which was designed for a different game. After reprogramming our robot, I was able to make it score purple cubes in the lower and even higher slots. I was also selected as the driver for our 2022 robot, which was a fun opportunity for me. Here is an example of our 2022 robot shooting a cube out through the intake to make it into the top scoring spot. Skip to 1:20, we are the robot in the top left.
+Finally, during the offseason, there are unofficial offseason events hosted by teams. One of those is Block Party hosted by 2910 Jack in the Bot. At offseason events, you are allowed to bring multiple robots to compete. Our team decided to submit our main competition robot from 2023 as well as our 2022 robot which was designed for a different game. We named our second drive team the "SubSonic Squirrels" After reprogramming our robot, I was able to make it score purple cubes in the lower and even higher slots. I was also selected as the driver for our 2022 robot, which was a fun opportunity for me. Here is an example of our 2022 robot shooting a cube out through the intake to make it into the top scoring spot. Skip to 1:20, we are the robot in the top left.
 <br>
 
 <iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
@@ -135,6 +135,10 @@ Finally, during the offseason, there are unofficial offseason events hosted by t
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
         allowfullscreen>
 </iframe>
+
+Our main team won the event with 2910 Jack in the Bot, but our second team with the robot I drove placed as finalists. This means that finals was our main team vs. our second team. It felt very special to make it to the finals; that team was a huge success for our team.
+
+![alt text](assets/frc-experience/BP2023.png)
 
 For those curious, here is the game reveal for the 2024 season Crescendo:
 
@@ -243,8 +247,92 @@ For those curious, here is the game reveal for the 2025 season Reefscape:
         allowfullscreen>
 </iframe>
 
+For the 2025 season, despite tough competition, I was selected as the Chief Engineering officer. The Chief Engineering officer is responsible for coordinating all major team activities including trainings, maintaining communication within the leadership team, and overseeing the full robot development process with a clear competitive vision in mind. For reference, here is the leadership structure of the 2930 Sonic Squirrels with the engineering side on the left.
+
+![alt text](assets/frc-experience/Picture1.png)
+
+During this season I was the most engaged I had ever been. I attended weekly officer meetings, regular leadership meetings, weekly training meetings, software meetings, practice sessions, and general team meetings. There were even periods during build season and competition season where I was there every day of the week.
+<br>
+
+In the offseason, I worked with the officer team to plan team activities such as offseason events, coordinate team trainings, and prepare the team for the 2025 season.
+<br>
+
+I was selected as the driver for our first offseason event, PNW Block Party. This time, I was driving our main competition robot, so I took our competitive success very seriously. At that event, our team placed as finalists. This was a huge success for our team considering that robot had never made it to finals at an event and PNW Block Party is such a competitive event. Because I played well as our driver at the offseason event, I was also selected as our main season driver for 2025 Reefscape.
+<br>
+
+Learning from our past mistakes and leaning on our team's strengths, we built our 2025 robot, Holocentrus.
+
 <figure>
   <img src="assets/frc-experience/hq720.jpg" alt="Robot">
   <figcaption>Our 2025 robot, Holocentrus, scoring a coral onto the reef</figcaption>
 </figure>
 
+This robot was capable of scoring coral on all levels of the reef, scoring algae into the processor, and climbing the deep cage. As chief engineer, I led executive engineering meetings, kept people on schedule, organized team meeting times, taught students software skills, and even wrote the majority of our software.
+<br>
+
+That year, our autonomous was designed to be extremely customizable; the drive team could make the robot collect coral from either human player station, collect coral off the ground, and score coral on any level. Here is an example of our autonomous working:
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/uc_luEaKFqE" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+Additionally, our robot could go up to the reef, auto align, engage the onboard mechanism, and score a coral, all with the press of a button using sensors and state machine code logic. One of the major challenges for software that year was that the scoring mechanism could collide with itself in a number of ways. To prevent this, the software team sectioned out different configurations of the mechanism and create a pathing algorithm to prevent the scoring mechanism from breaking itself.
+<br>
+
+Because of our advanced autonomous and reliable software, we won the Autonomous Award at our first event and the Innovation in Controls award at our second event.
+<br>
+
+Here is our Behind the Bumpers that year, which is a robot interview conducted by the [FUN Robotics Network](https://www.youtube.com/@FUNRoboticsNetwork).
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/dwP1hW5AI98" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+Being the driver was certainly stressful, but at this point I had two offseason competitions worth of driving experience and a strong dedication to our team's performance. Because of this, I was able to focus during matches and play my best. Because our robot was very competitive due to a successful build season, and our competition teams (drive team and strategy team) played their roles well, our team had the most competitive season it had ever had in its history.
+<br>
+
+We were finalists at our first event and winners at our second event. Funily enough, in both cases we were alliance partners with [9450 Velocity Raptors](https://www.instagram.com/velocityraptors9450/). Then at the PNW district championships, despite a rough match schedule and some losses in the qualification period, our team won the Pacific Northwest District Championship alongside 2910 Jack in the Bot (who would later go on to be the world champions) and [7034 2B Determined](https://wlhsfrc.com/). We were the first pick of the alliance. Being selected for that alliance then going on to win the event made this my favorite moment in both my FRC career and in my life. This video shows my reaction to being selected to compete with 2910 (I may have overreacted slightly).
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/MNf8HnUbWFQ" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+The season goal for this year was to compete in playoffs on the field at the world championships, so it would all come down to our performance in Houston as to whether the year was officially a success. As usual, our match schedule was pretty rough, but our team fought hard to do well. We even attempted to modify the robot to score Algae in the net, however this didn't end up working in time. In qualification matches, we ranked 9. However, based on our offensive power rating (which is a more objective guage of performance than ranking score), we were top 6 in our division of over 50 teams. Because of this incredible performance, we were selected as the first pick of alliance 3 with [6800 Valor](https://sites.google.com/view/valor6800/home?pli=1).
+<br>
+
+Our alliance ended up beating the second ranked alliance, bringing us all the way to finals against two former world champions, [1690 Orbit](https://www.1690orbit.com/) and [4414 High Tide](https://www.team4414.com/). Competing at such a high level was unlike anything I had experienced before; thousands of people on the edge of their seats to watch our team compete amongst the best FRC teams in the world. We would end up losing to 1690 and 4414, meaning we wouldn't move on to the Einstines playoffs, but we were fine with that. We knew it was unlikely we would be such rediculously good teams, and the scores we did put up exceeded that of the winning alliances on other fields.
+<br>
+
+Here is the final match of the 2025 season for 2930:
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/btLIBMV2Yt8" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+And finally here is a video I put together of times when people mentioned the Sonic Squirrels in videos:
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/GHoGw0vKsuQ" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+I learned a lot from my experience in FRC. It was so much more than how to code in Java; I learned how to develop software with a team, how to communicate complex technical problems so everyone can understand, and how to be a leader that people can look up to. I am immensly grateful to all of the mentors and students who were alongside me every step of the way, whether they were teaching me or I was teaching them. The skills I gained from FRC will forever make me a more effective engineer.
