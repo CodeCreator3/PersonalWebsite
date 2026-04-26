@@ -1,8 +1,8 @@
-# Trumpet Playing
+# Musicianship
 
 ## Glacier Peak High School Music Program
 
-I joined the school concert band my Freshman year of high school. I already had a few years of music experience through my middle school band and wanted to continue playing. After doing well in that class first semester, the director (Mr. Morris) allowed me to join the school Wind Ensemble second semester without even auditioning. 
+I joined the school concert band my Freshman year of high school as a trumpet player. I already had a few years of music experience through my middle school band and wanted to continue playing. After doing well in that class first semester, the director (Mr. Morris) allowed me to join the school Wind Ensemble second semester without even auditioning. 
 <br>
 
 The Wind Ensemble was an extremely phenominal group; the music programs in the Snohomish School district were all very well established and a lot of them fed into Glacier Peak High School. The Wind Ensemble was made up of mostly upper classmen, so I practiced a lot to keep up with them. That first year was a lot of fun, playing with such a professional group pushed me to improve my own skill. Particularly, my friend Liam Presler showed me how good one could get at playing trumpet with the right techniques and experience.
