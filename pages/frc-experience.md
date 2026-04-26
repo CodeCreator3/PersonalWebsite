@@ -68,6 +68,9 @@ Seeing the code I wrote work in competition was very motivating. Our team did we
 <br>
 
 Seeing the code I wrote bring our team to success was very motivating. Our team qualified for the World Championships in Houston and we flew down there to attend. The venue (the George R Brown Convention Center) was gigantic! There were hundreds of teams there from all over the world. Our team didn't make it very far due to how competitive the event was, but just attending was very inspiring. I was especially impressed by the world champions, [254 the Cheesy Poofs](https://www.team254.com/), that year. Their robot was nearly flawless and had some super nifty software features. I knew our team could improve a lot and I wanted to contribute to that.
+<br>
+
+[2930 2022 Robot Code](https://github.com/FRC-Sonic-Squirrels/2022-Robot-Code)
 
 ### Sophomore Year (2023)
 
@@ -116,6 +119,8 @@ That little move to throw the first purple cube we got saved us enough time to g
 To log and visualize robot data, we upgraded our code to use the [Advantage Kit](https://docs.advantagekit.org/) framework so we could visualize information in the [Advantage Scope](https://docs.advantagescope.org/) application. We also switched to using [Choreo](https://choreo.autos/) for autonomous pathing due to it's computation optimization.
 
 Because of our autonomous consistancy and my communication skills with the jugdes, we won the autonomous award yet again! This was very honoring because the Pacific Northwest Regional is a very competitive event with plenty of other good autonomous routines. From there, we qualified for the world championships. I was unable to attend due to prior commitments with my high school's musical, but I was paying close attention. So when I heard that we had won the autonomous award again, I was ecstatic!!!
+
+[2930 2023 Robot Code](https://github.com/FRC-Sonic-Squirrels/2023-Robot-Code)
 
 ### Junior Year (2024)
 
@@ -235,6 +240,8 @@ Another important aspect of the 2024 season was my FIRST Dean's List Award (now 
 
 At our second event that year, I competed against other Dean's List nominees from many other teams for the Dean's List Semi-Finalist award. I spoke with a panel of judges about the impact I had on my team as well as the impact I had mentoring my previous First Lego League team. Because the judges saw I had great leadership and communication skills as well as a strong dedication to both my FIRST Robotics Competition team and my FIRST Lego League team, I was selected as one of the FIRST Dean's List Semi-Finalists at the 2024 FRC PNW District Bonney Lake Event. Because of this, I was also invited to compete for the Dean's List Finalist Award at the PNW Championships, although I didn't win it there. I was incredibly honored to win this award and it cemented my commitment to learning more and inspiring others in the engineering field. 
 
+[2930 2024 Robot Code](https://github.com/FRC-Sonic-Squirrels/2024-Robot-Code)
+
 ### Senior Year (2025)
 
 For those curious, here is the game reveal for the 2025 season Reefscape:
@@ -335,4 +342,46 @@ And finally here is a video I put together of times when people mentioned the So
         allowfullscreen>
 </iframe>
 
-I learned a lot from my experience in FRC. It was so much more than how to code in Java; I learned how to develop software with a team, how to communicate complex technical problems so everyone can understand, and how to be a leader that people can look up to. I am immensly grateful to all of the mentors and students who were alongside me every step of the way, whether they were teaching me or I was teaching them. The skills I gained from FRC will forever make me a more effective engineer.
+[2930 2025 Robot Code](https://github.com/FRC-Sonic-Squirrels/2025-Robot-Code)
+
+## Big Sky Robotics
+
+After coming to Montana State University, I joined Big Sky Robotics (BSR).
+
+![alt text](assets/frc-experience/BSR.png)
+
+This college club was started by Jono Bell, a former squirrel. At the time of me joining, the president was Ethan Coster, also a former squirrel. So it was nice to have some connections to the team going in.
+<br>
+
+Big Sky Robotics competes in the Robot in Three Days (Ri3D) challenge. This challenge invites college students to build robots for the current FRC challenge, but with a twist: we have 72 hours to go from watching the kickoff video to having a working robot. This means that all phases of development from conceptualization to final testing have to be very well streamlined and thought-out. The purpose of the Ri3D challenge is to give college students an opportunity to get hands-on with engineering and to inspire high schoolers with ideas for their robots. Ri3D teams do not compete in official FRC competitions.
+<br>
+
+I was invited to join the officer team soon after joining due to my FRC and leadership experience. My primary role as the controls officer was to lead our electrical and software efforts. I hadn't spent very much time on the Sonic Squirrels doing electrical work, so this was somewhat of a learning curve for me, but I picked it up pretty quick.
+<br>
+
+I also held software training in both the fall and spring for students looking to learn more about Java and FRC Software.
+<br>
+
+For those curious, here is the game reveal for the 2026 season:
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/_fybREErgyM" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+The three days went pretty well for us. Though we had some setbacks with our robot CAD and fitting mechanisms together, our robot was able to pick fuel up off the ground and shoot it into the hub. I spent many hours writing our entire codebase. I even outfitted it with advanced software such as simulation, state machines, and in-depth logging. Additionally, I did a lot of electrical work to get the robot operational. Finally, I edited and posted videos to our [YouTube channel](https://www.youtube.com/@bigskyrobotics). That year, we recieved over 100,000 views across our videos. It was clear that students were inspired by our robot and team. Here is our robot reveal:
+
+<iframe style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
+        src="https://www.youtube.com/embed/36twKVpj1Ck" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+## Conclusion
+
+I learned a lot from my experience in FRC. It was so much more than how to code in Java; I learned how to develop software with a team, how to communicate complex technical problems so everyone can understand, and how to be a leader that people can look up to. I am immensly grateful to all of the mentors and students who were alongside me every step of the way, whether they were teaching me or I was teaching them. The skills I gained from FRC will forever make me a more effective engineer and person.
