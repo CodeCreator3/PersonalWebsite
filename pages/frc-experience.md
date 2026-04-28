@@ -67,8 +67,10 @@ My first year, I spent a lot of time learning Java, as well as all the software 
 Seeing the code I wrote work in competition was very motivating. Our team did well at our first two competitions that season, even winning the Sundome district event with [2910 Jack in the Bot](https://frcteam2910.org/). Because of this, we were invited to compete at the PNW District Championships. At that event, our team made it all the way to the semi-finals. 
 <br>
 
-Seeing the code I wrote bring our team to success was very motivating. Our team qualified for the World Championships in Houston and we flew down there to attend. The venue (the George R Brown Convention Center) was gigantic! There were hundreds of teams there from all over the world. Our team didn't make it very far due to how competitive the event was, but just attending was very inspiring. I was especially impressed by the world champions, [254 the Cheesy Poofs](https://www.team254.com/), that year. Their robot was nearly flawless and had some super nifty software features. I knew our team could improve a lot and I wanted to contribute to that.
+Our team qualified for the World Championships in Houston and we flew down there to attend. The venue (the George R Brown Convention Center) was gigantic! There were hundreds of teams there from all over the world. Our team didn't make it very far due to how competitive the event was, but just attending was very inspiring. I was especially impressed by the world champions, [254 the Cheesy Poofs](https://www.team254.com/), that year. Their robot was nearly flawless and had some super nifty software features. I knew our team could improve a lot and I wanted to contribute to that.
 <br>
+
+Though I didn't contribute very much to our software in 2022, I learned a lot. This was thanks to guidance from our software mentor, Bryn Dole, and my friend, Keyush Attarde. Additionally, I tried things that I didn't know how to do, which forced me to do research and ask questions.
 
 [2930 2022 Robot Code](https://github.com/FRC-Sonic-Squirrels/2022-Robot-Code)
 
