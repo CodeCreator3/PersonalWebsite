@@ -64,6 +64,7 @@ My first year, I spent a lot of time learning Java, as well as all the software 
   <img src="assets/frc-experience/2022_03_robot_traverse.jpg" alt="Robot">
   <figcaption>Our 2022 robot, Pterumini, climbing the rungs</figcaption>
 </figure>
+
 Seeing the code I wrote work in competition was very motivating. Our team did well at our first two competitions that season, even winning the Sundome district event with [2910 Jack in the Bot](https://frcteam2910.org/). Because of this, we were invited to compete at the PNW District Championships. At that event, our team made it all the way to the semi-finals. 
 <br>
 
